@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/minusthebear/Jungle-Coding-Challenge#readme",
   "dependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "sinon": "^7.3.2"
   }
 }
